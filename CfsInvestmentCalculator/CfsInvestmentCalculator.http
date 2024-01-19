@@ -1,0 +1,10 @@
+@CfsInvestmentCalculator_HostAddress = http://localhost:5242
+
+GET {{CfsInvestmentCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+GET {{CfsInvestmentCalculator_HostAddress}}/InvestmentCalculator/
+Accept: application/json
+
+
+###
